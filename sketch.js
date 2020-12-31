@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(800,400);
-  var hr,mn,sc;
+ var hrAngle, mnAngle, scAngle; 
 
   angleMode(DEGREES);
 }
